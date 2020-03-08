@@ -1,3 +1,5 @@
+Small project calculating items based on each score with some bonus points - Project using React/Redux
+
 ## Live Demo
 [Demo](https://react-test--danpriori.repl.co)
 
